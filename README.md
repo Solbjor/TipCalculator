@@ -34,11 +34,11 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![](https://i.imgur.com/9SfRul7.gif)
 
-GIF created with **your chosen GIF tool**
+GIF created with ScreenToGif
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned how to use on-click listeners to get the input from buttons on the app, as well as reading text inputs from the user and translating that to usable data to perform calculations. 
 
 ## License
 
